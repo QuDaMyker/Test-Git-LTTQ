@@ -1,0 +1,10 @@
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\bin\Debug\Test-Git-LTTQ.exe.config
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\bin\Debug\Test-Git-LTTQ.exe
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\bin\Debug\Test-Git-LTTQ.pdb
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.csproj.AssemblyReference.cache
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test_Git_LTTQ.Properties.Resources.resources
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.csproj.GenerateResource.cache
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.csproj.CoreCompileInputs.cache
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.exe
+C:\Users\quocd\OneDrive\Tài liệu\GitHub\Test-Git-LTTQ\Test-Git-LTTQ\obj\Debug\Test-Git-LTTQ.pdb
